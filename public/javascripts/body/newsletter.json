@@ -1,0 +1,26 @@
+[
+    {
+        "background": "",
+        "mail": "",
+        "sub": true,
+        "unsub": false,
+        "translation": {
+            "SIGN_UP_TO_OUR_NEWSLETTER": "SIGN UP TO OUR NEWSLETTER",
+            "If_you_would_like_to_be_informed": "If you would like to be informed ",
+            "about_our_latest_news": "about our latest news, ",
+            "products_and_events": "products and events, ",
+            "please_subscribe_to_our_newsletter": "please subscribe to our newsletter. ",
+            "You_will_get_the_latest_news": "You will get the latest news ",
+            "straight_to_your_email_box": "straight to your e-mail box. ",
+            "To_unsubscribe_from_our_list_just_write": "To unsubscribe from our list just write ",
+            "your_email_address": "your e-mail address ",
+            "in_the_form_check": "in the form, check ",
+            "Unsubscribe_and_click_the_Submit_button": "'Unsubscribe' and click the 'Submit' button. ",
+            "Your_email_address_": "Your e-mail address :",
+            "I_would_like_to_": "I would like to :",
+            "Subscribe": "Subscribe  ",
+            "Unsubscribe": "Unsubscribe  ",
+            "Submit": "Submit"
+        }
+    }
+]

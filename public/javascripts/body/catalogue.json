@@ -1,0 +1,32 @@
+[
+    {
+        "title": "KENKOON CATALOGUE 2010",
+        "img": "images/catalogue/catalogue2010.jpg",
+        "file_doc": "docs/KENKOON_CATALOGUE_2010.pdf"
+    },
+    {
+        "title": "KENKOON CATALOGUE 2013",
+        "img": "images/catalogue/catalogue2013.jpg",
+        "file_doc": "docs/KENKOON_CATALOGUE_2013.pdf"
+    },
+    {
+        "title": "KENKOON PRODUCT CARE",
+        "img": "images/catalogue/product_care.jpg",
+        "file_doc": "docs/Kenkoon_Product_Care.pdf"
+    },
+    {
+        "title": "KENKOON COLOR & MATERIAL",
+        "img": "images/catalogue/color_material.jpg",
+        "file_doc": "docs/Colors_Material_Selection.pdf"
+    },
+    {
+        "title": "KENKOON CATALOGUE 2014",
+        "img": "images/catalogue/kenkoon-catalog-2014.jpg",
+        "file_doc": "docs/kenkoon_catalog_2014.pdf"
+    },
+    {
+        "title": "KENKOON PROJECTS",
+        "img": "images/catalogue/KENKOON_Projects.jpg",
+        "file_doc": "docs/project_catalog.pdf"
+    }
+]

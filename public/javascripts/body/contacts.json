@@ -1,0 +1,88 @@
+[
+    {
+        "background": "#969696",
+        "title": "kenkoon HQ",
+        "subtitle": "Pattanakarn 20",
+        "address": "8 Soi Pattanakarn Soi 20 Yak 4, Suanluang, Bangkok 10250 Thailand",
+        "detail": null,
+        "tel": "(662) 319 1015-6 ext. 874",
+        "fax": "(662) 319 6440",
+        "email": "info@kenkoon.com",
+        "map_address": {
+            "image": {
+                "show": true,
+                "link": ""
+            },
+            "google_map": {
+                "show": false,
+                "link": ""
+            }
+        }
+    },
+    {
+        "background": "#808080",
+        "title": "kenkoon Concept Showroom",
+        "subtitle": "Thonglor 10",
+        "address": "Thonglor Soi 10 Khlong Tan Nuea Watthana, Bangkok 10110 Thailand",
+        "detail": {
+            "open": "everyday",
+            "from": {
+                "start_time": "10.00",
+                "end_time": "19.00"
+            }
+        },
+        "tel": "(662) 711-5701-2",
+        "fax": "",
+        "email": "info@kenkoon.com",
+        "map_address": {
+            "image": {
+                "show": true,
+                "link": ""
+            },
+            "google_map": {
+                "show": false,
+                "link": ""
+            }
+        }
+    },
+    {
+        "background": "#4A4D4D",
+        "title": "kenkoon Showroom Phuket",
+        "subtitle": "Phuket",
+        "address": "Plaza Dracaena 3/5 Moo 8 12,13 Chaofa Road Chalong MuangPhuket, Phuket 83000 Thailand",
+        "detail": null,
+        "tel": "(6676) 604 449",
+        "fax": "(6676) 604 449",
+        "email": "info@kenkoon.com",
+        "map_address": {
+            "image": {
+                "show": true,
+                "link": ""
+            },
+            "google_map": {
+                "show": false,
+                "link": ""
+            }
+        }
+    },
+    {
+        "background": "#1f1f1f",
+        "title": "kenkoon Showroom Nongchok",
+        "subtitle": "Nongchok",
+        "address": "28/2 Moo 2 Mitmaitri Road Kwang Khufangnuea, Kade Nongchok Bangkok 10530 Thailand",
+        "detail": null,
+        "tel": "(662) 988-6900",
+        "fax": "",
+        "email": "info@kenkoon.com",
+        "map_address": {
+            "image": {
+                "show": true,
+                "link": ""
+            },
+            "google_map": {
+                "show": false,
+                "link": ""
+            }
+        }
+    }
+ ]
