@@ -47,7 +47,24 @@ db.once('open', function () {
   // we're connected!
 });
 
-app.use(cors())
+var allowlist = [
+  'http://kenkoon.com',
+  'http://www.kenkoon.com',
+  'http://mobile.kenkoon.com',
+  'https://kenkoon.com',
+  'https://www.kenkoon.com',
+  'https://mobile.kenkoon.com']
+var corsOptionsDelegate = function (req, callback) {
+  var corsOptions;
+  if (allowlist.indexOf(req.header('Origin')) !== -1) {
+    corsOptions = { origin: true } // reflect (enable) the requested origin in the CORS response
+  } else {
+    corsOptions = { origin: false } // disable CORS for this request
+  }
+  callback(null, corsOptions) // callback expects two parameters: error and options
+}
+
+app.use(cors(corsOptionsDelegate))
 
 app.use(session({
   secret: 'n.devs',
