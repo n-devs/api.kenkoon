@@ -51,9 +51,11 @@ var allowlist = [
   'http://kenkoon.com',
   'http://www.kenkoon.com',
   'http://mobile.kenkoon.com',
+  'http://admin.kenkoon.com',
   'https://kenkoon.com',
   'https://www.kenkoon.com',
-  'https://mobile.kenkoon.com']
+  'https://mobile.kenkoon.com',
+  'https://admin.kenkoon.com']
 var corsOptionsDelegate = function (req, callback) {
   var corsOptions;
   if (allowlist.indexOf(req.header('Origin')) !== -1) {
